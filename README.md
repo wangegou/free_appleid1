@@ -41,6 +41,7 @@
 ## 其他获取Shadowrocket的途径
 
 除了使用免费共享的Apple ID，你还可以选择以下几种方式：
+## https://free.iosapp.icu/
 
 - **自行注册国外Apple ID**：通过使用美国或其他国家的邮箱注册一个新的Apple ID，购买或免费下载需要的应用。
 - **购买私人ID**：一些商家提供付费的Shadowrocket ID服务，虽然需要花费，但相对稳定且安全。
